@@ -29,8 +29,6 @@ fontfamily.addEventListener("change", selectfontfamily);
 fontsize.addEventListener("change", selectfontsize);
 
 
-
-
 canvas.width = 800;
 canvas.height = 800;
 ctx.lineWidth = boldselect.value;
